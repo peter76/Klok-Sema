@@ -5,3 +5,7 @@ schema en arduino code voor klok
 - Arduino uno r3
 - DRV8825 breakout board [https://www.pololu.com/product/2133]
 - Stepper motor 42byghw208 [https://www.alldatasheet.com/datasheet-pdf/pdf/1260873/promoco/42byghw208-04.html]
+
+De DRV8825 is afgeregeld op ongeveer 0,1 A.
+
+![FotoBoard](FotoBoard.png)
